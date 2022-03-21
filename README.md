@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HakantktDev
 - 👀 I’m interested in javascript.
 - 🌱 I’m currently learning vue.js
-- 📫 How to reach me hakantktdev@gmail.com
+- 📫 How to reach me hakantokatdev@gmail.com
 
 <!---
 HakantktDev/HakantktDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
