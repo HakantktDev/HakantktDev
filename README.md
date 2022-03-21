@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HakantktDev
 - 👀 I’m interested in javascript.
-- 🌱 I’m currently vue.js
+- 🌱 I’m currently learning vue.js
 - 📫 How to reach me hakantktdev@gmail.com
 
 <!---
